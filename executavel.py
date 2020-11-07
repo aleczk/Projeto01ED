@@ -64,7 +64,7 @@ if __name__ == "__main__":
 
     print_centralizado('Elemento mostrado. Próximo passo: BUSCAR')
     print_centralizado('Serão buscadas as músicas do cantor Geraldo Vandré')
-    input("\nPressione ENTER para continuar...\n")
+    input("\nPressione ENTER para continuar...")
 
     print_centralizado(f'{lista.buscar("Geraldo Vandré")}')
 
@@ -106,7 +106,7 @@ if __name__ == "__main__":
         print_centralizado('A pilha NÃO está vazia')
 
     print_centralizado('Checagem completa. Próximo passo: MOSTRAR ELEMENTO')
-    input("\nPressione ENTER para continuar...\n")
+    input("\nPressione ENTER para continuar...")
 
     print_centralizado(f'{pilha.elemento()}')
 
