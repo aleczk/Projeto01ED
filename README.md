@@ -1,5 +1,5 @@
 # Projeto 01 - Estrutura de Dados
-*Descrição do projeto:** Projeto simples de Listas, Pilhas e Filas Encadeadas e seus respectivos métodos para a disciplina de ED em 2020.1.
+**Descrição do projeto:** Projeto simples de Listas, Pilhas e Filas Encadeadas e seus respectivos métodos para a disciplina de ED em 2020.1.
 
 # Detalhes do Projeto
 O objetivo deste projeto é implementar as principais estruturas de
