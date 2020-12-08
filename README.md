@@ -20,6 +20,7 @@ O objetivo deste projeto é implementar as principais estruturas de
 As classes Lista, Pilha e Fila devem conter os seguintes métodos:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Incluir o registro de um filme, lendo, do teclado, os seus dados;
 * Buscar um filme pelo id, retornando e exibindo o nome e ano, em caso de sucesso. Do contrário, informar que a chave do filme não existe no catálogo;
 * Buscar os filmes lançados em um determinado ano;
@@ -43,6 +44,8 @@ Deverá existir um menu interativo, para que o usuário escolha as opções:
 
 (7) Sair do programa.
 =======
+=======
+>>>>>>> parent of fa389b5... Update README.md
 * Adicionar – Adiciona um elemento em qualquer posição. No caso de
 Pilhas e Filas, existem regras para a adição de novos elementos;
 * Remover – Remove um elemento de qualquer posição. No caso de
@@ -65,4 +68,7 @@ Alguns requisitos para o desenvolvimento do projeto:
 * O atributo _dado da classe No conterá um objeto da classe Dado;
 * As estruturas devem ser implementadas usando encadeamento, ou seja,
 	não deve ser utilizada a classe List do Python.
+<<<<<<< HEAD
+>>>>>>> parent of fa389b5... Update README.md
+=======
 >>>>>>> parent of fa389b5... Update README.md
