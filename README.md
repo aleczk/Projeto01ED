@@ -1,5 +1,5 @@
 # Projeto 01 - Estrutura de Dados
-**Descrição do projeto:** Projeto simples de Listas, Pilhas e Filas Encadeadas e seus respectivos métodos para a disciplina de ED em 2020.1.
+*Descrição do projeto:** Projeto simples de Listas, Pilhas e Filas Encadeadas e seus respectivos métodos para a disciplina de ED em 2020.1.
 
 # Detalhes do Projeto
 O objetivo deste projeto é implementar as principais estruturas de
@@ -19,36 +19,6 @@ O objetivo deste projeto é implementar as principais estruturas de
 ***
 As classes Lista, Pilha e Fila devem conter os seguintes métodos:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-* Incluir o registro de um filme, lendo, do teclado, os seus dados;
-* Buscar um filme pelo id, retornando e exibindo o nome e ano, em caso de sucesso. Do contrário, informar que a chave do filme não existe no catálogo;
-* Buscar os filmes lançados em um determinado ano;
-* Listar todos os títulos do catálogo, por ordem alfabética crescente;.
-* Informar a altura da árvore.
-* Exibir a árvore
-
-Deverá existir um menu interativo, para que o usuário escolha as opções:
-
-(1) Inserir Filme
-
-(2) Buscar filme pelo id
-
-(3) Buscar filmes pelo ano
-
-(4) Listar filmes em ordem alfabética
-
-(5) Altura da árvore
-
-(6) Exibir a árvore
-
-(7) Sair do programa.
-=======
-=======
->>>>>>> parent of fa389b5... Update README.md
-=======
->>>>>>> parent of fa389b5... Update README.md
 * Adicionar – Adiciona um elemento em qualquer posição. No caso de
 Pilhas e Filas, existem regras para a adição de novos elementos;
 * Remover – Remove um elemento de qualquer posição. No caso de
@@ -71,10 +41,3 @@ Alguns requisitos para o desenvolvimento do projeto:
 * O atributo _dado da classe No conterá um objeto da classe Dado;
 * As estruturas devem ser implementadas usando encadeamento, ou seja,
 	não deve ser utilizada a classe List do Python.
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of fa389b5... Update README.md
-=======
->>>>>>> parent of fa389b5... Update README.md
-=======
->>>>>>> parent of fa389b5... Update README.md
